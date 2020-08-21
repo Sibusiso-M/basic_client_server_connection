@@ -1,0 +1,7 @@
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\bin\Debug\SocketProgrammingConsoleType.exe.config
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\bin\Debug\SocketProgrammingConsoleType.exe
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\bin\Debug\SocketProgrammingConsoleType.pdb
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\obj\Debug\SocketProgrammingConsoleType.csprojAssemblyReference.cache
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\obj\Debug\SocketProgrammingConsoleType.csproj.CoreCompileInputs.cache
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\obj\Debug\SocketProgrammingConsoleType.exe
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\SocketProgrammingConsoleType\obj\Debug\SocketProgrammingConsoleType.pdb

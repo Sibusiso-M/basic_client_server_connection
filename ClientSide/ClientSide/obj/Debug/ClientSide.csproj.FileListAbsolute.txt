@@ -1,0 +1,6 @@
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\sonicmaster\source\repos\ClientSide\ClientSide\obj\Debug\ClientSide.pdb

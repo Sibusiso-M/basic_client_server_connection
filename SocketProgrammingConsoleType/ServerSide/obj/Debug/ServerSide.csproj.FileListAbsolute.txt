@@ -1,0 +1,7 @@
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\obj\Debug\ServerSide.csprojAssemblyReference.cache
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\sonicmaster\source\repos\SocketProgrammingConsoleType\ServerSide\obj\Debug\ServerSide.pdb
